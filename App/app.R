@@ -26,7 +26,7 @@ if(!require(dplyr)) install.packages("dplyr")
   library(dplyr)
 
 
-#Key Schulte
+
   api_key = "#"
 
 
